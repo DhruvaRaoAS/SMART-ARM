@@ -1,4 +1,4 @@
-# 5 DOF Smart Robotic Arm
+#Smart Robotic Arm
 
 This is a low-cost, 3D-printed, 5 Degrees of Freedom robotic arm using Dynamixel AX-12A smart servos.
 It features inverse kinematics control, Arduino firmware, and a Python-based GUI for controlling the arm.
